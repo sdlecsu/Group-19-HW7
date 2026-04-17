@@ -1,0 +1,19 @@
+{
+  "name": "group-19-hw7-todo",
+  "version": "1.0.0",
+  "description": "To-Do List app (Homework 7)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "mongo:up": "docker compose up -d mongo",
+    "mongo:down": "docker compose down"
+  },
+  "engines": {
+    "node": ">=12.22"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongodb": "^4.17.2"
+  }
+}
