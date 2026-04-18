@@ -1,0 +1,5 @@
+The responsibilities I had on task was to ensure that the MongoDB functionality on local testings were functional if other users were to make a MongoDB cluster. I also had worked on the front-end to ensure that it was calling properly to the DB to remember locally on data that the lists the user had made.
+
+The program that I had used to assist me on the project was an AI agent named Claude, who assisted in understanding how to use MongoDB as well as give me a plan outline on how to work on the project. Another tool that I had used was Github to allow both me and my teammate to work on the project simultaneously.
+
+The challenges that I had faced during the process of creating this project was that I was completely confused on how to use MongoDB first-hand. Going through trials and tribulations on installing the correct packages to make sure the web application functions. Another problem was understanding how to make a local listening server whilst getting stuck on why my ports were not reaching out to my package installs.

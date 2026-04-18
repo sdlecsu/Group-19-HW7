@@ -1,0 +1,8 @@
+
+For this project I was tasked with making sure everything was working correctly and made sure the setup instructions are readable and viable. I did have my own to-do app but we decided with my partners because he had finished earlier. 
+
+
+While working on this project I encountered a docker error. Upon installing mongodb locally on my device I was able to run it through using VS Code, in which every feature worked well.I was able to get Docker to run and could use both options on the README.   
+
+
+The first and most challenged faced during this project was communication. I admit I also did not really communicate at first which could get more and more difficult as the deadline approaches. With that being said we did end up reaching out in the end and finishing our work. 
